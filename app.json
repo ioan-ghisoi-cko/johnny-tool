@@ -1,7 +1,7 @@
 {
   "name": "Johnny Tool Backend Server",
   "description": "A sample backend",
-  "repository": "https://github.com/ioan-ghisoi-cko/backend-server-example",
+  "repository": "https://github.com/ioan-ghisoi-cko/johnny-tool",
   "logo": "https://www.checkout.com/static/img/checkout-logo/logo.svg",
   "keywords": [
     "node",
